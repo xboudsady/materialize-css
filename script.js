@@ -13,4 +13,6 @@ $(document).ready(function () {
     });
 
     $('.tooltipped').tooltip(); // tootip hover effect
+
+    $('.scrollspy').scrollSpy();
 });
